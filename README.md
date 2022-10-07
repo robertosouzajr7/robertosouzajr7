@@ -7,7 +7,8 @@
 ) [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertosouzajr@gmail.com
 ) [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sourobertojr/
 )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertosouzajr7=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertosouzajr7=compact)](https://github.com/robertosouzajr7/github-readme-stats)
+
 ![Roberto jr GitHub stats](https://github-readme-stats.vercel.app/api?username=robertosouzajr7&show_icons=true&theme=tokyonight)
 
 
